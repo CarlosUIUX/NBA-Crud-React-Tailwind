@@ -12,7 +12,7 @@ export const Hero = () => {
                 <div className="grid grid-cols-1 lg:grid-cols-2 md:grid-cols-2 lg:text-left md:text-left text-center items-center gap-12 flex-wrap py-8">
                     <div>
                         <h3 className="text-md font-meidum">Create · Review · Update · Delete</h3>
-                        <h1 className="text-4xl font-bold my-7">Example of NBA player´s CRUD database app using hooks</h1>
+                        <h1 className="text-4xl font-bold my-7">Example of NBA players CRUD database app using hooks</h1>
                         <div className='flex gap-8 lg:justify-start md:justify-start justify-center items-center font-semibold w-full'>
                             <a className='flex gap-2 items-center' href='https://es.react.dev/'>
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width={24} />
